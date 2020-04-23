@@ -23,8 +23,8 @@ Hardware Hookup (if you're not using the eval board):
 MLX90614 ------------- Arduino
   VDD ------------------ 3.3V
   VSS ------------------ GND
-  SDA ------------------ SDA (A4 on older boards)
-  SCL ------------------ SCL (A5 on older boards)
+  SDA ------------------ SDA (A0 on older boards)
+  SCL ------------------ SCL (A1 on older boards)
   
 An LED can be attached to pin 8 to monitor for any read errors.
 
